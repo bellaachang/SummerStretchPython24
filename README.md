@@ -1,1 +1,1 @@
-# SummerStretchPython24
+# UW Summer Stretch (Intro to Python) 2024
